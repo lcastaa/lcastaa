@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/luis-a-castaneda) | [GitHub](https://github.com/lcastaa) | [Personal Website](https://www.aqlabs.xyz)
 
 
-I am a junior developer skilled in Java and Python, with a growing foundation in IT. I have a strong passion for crafting solutions to real-world challenges, and even on my days off, coding remains my favorite activity. When I'm not immersed in lines of code, you can find me at the gym or enjoying quality moments with my loved ones. I am particularly enthusiastic about Raspberry Pi projects and have a keen interest in all things related to cars.
+I am a junior developer skilled in Java and Python, with a growing foundation in IT. I have a strong passion for crafting solutions to real-world challenges, and even on my days off, coding remains my favorite activity. When I'm not immersed in lines of code, you can find me at the gym or enjoying quality moments with my loved ones. I am particularly enthusiastic about Raspberry Pi projects and have a keen interest in all things related to space, science and anything with a motor.
 
 ### Technical Skills
 

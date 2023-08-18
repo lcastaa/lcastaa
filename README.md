@@ -32,7 +32,7 @@ I am a junior back-end developer skilled in Java and Python, with a growing foun
 
 ***Protyping Platfrom***
 - ![RaspberryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-- ![Aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ***Methodologies:***
 - Agile

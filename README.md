@@ -1,9 +1,6 @@
 ### Hello there stranger 👋 my name is Luis Castaneda
 
-[LinkedIn](https://www.linkedin.com/in/luis-a-castaneda) | [GitHub](https://github.com/lcastaa) | [Personal Website](https://www.aqlabs.xyz)
-
-
-Hello everyone  , I'm a Jr. Java and Python Developer. My journey into the world of software development began about a year ago, and I'm proud to be a non-traditional learner. Unlike others, I didn't pursue a traditional four-year university education to learn how to code. My passion for technology sparked when I first dove into the inner workings of the terminal. With the completion of Google's IT Support Specialist Program, I learned all the tech basics. During this asynchronous program, I was introduced to the power of Bash scripting, and that experience sparked more curiosity about programming. Soon, I found myself diving headfirst into my first general-purpose programming language: Python. I went on this Python journey through two enlightening courses on Coursera. The first course, "Crash Course on Python", was skillfully taught by experts from Google. The second, "Python for Data Science, AI & Development," was an eye-opening experience guided by instructors from IBM. Although the concepts were challenging to grasp, I kept going and successfully completed these courses. Fast-forward a few more months later, and I decided to expand my skills by enrolling in the Java Development Program offered by Merit America. This intensive 6-month course provided me with a deeper understanding of software development, by the end of it, everything became much clearer, all of a sudden all the hard-to-understand concepts made sense. My journey in the world of technology and software development has been rewarding, fun, dynamic, & I'm excited to continue growing & learning in this ever-evolving field. My goal is to become a DevOps Engineer if possible even more!
+I'm a Jr. Java and Python Developer. My journey into the world of software development began about 1 and a half years ago, and I'm proud to be a non-traditional learner. Unlike others, I didn't pursue a four-year university to learn how to code. I found my passion in technology when I was recovering from an accident and I got really curious about the inner workings of the terminal. With the completion of Google's IT Support Specialist Program, I learned all the tech basics. During this asynchronous program, I was introduced to the power of Bash scripting, and that experience sparked more curiosity about programming. Soon, I found myself diving headfirst into my first general-purpose programming language: Python. In this Python, journey through two amazing courses on Coursera. The first course, "Python for automation", was taught by experts from Google. The second, "Python for Data Science, AI & Development," was an eye-opening experience guided by instructors from IBM. Although the concepts were challenging to grasp, I kept going and successfully completed these courses. Fast-forward a few more months later, and I decided to expand my skills by enrolling in the Java Development Program offered by Merit America. This intensive 6-month course provided me with a deeper understanding of software development, by the end of it, everything became much clearer, and all of a sudden all the hard-to-understand concepts made sense. My journey in the world of technology and software development has been rewarding, fun, and dynamic, and I'm excited to continue growing & learning in this ever-evolving field. My goal is to become a DevOps Engineer if possible even more!
 
 ***Languages:***
 -  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -42,8 +39,7 @@ Hello everyone  , I'm a Jr. Java and Python Developer. My journey into the world
 
 Feel free to reach out to me through email or LinkedIn for collaboration and networking opportunities I love to meet new people.
 
-
-
+[LinkedIn](https://www.linkedin.com/in/luis-a-castaneda) | [Personal Website](https://www.aqlabs.xyz)
 
 
 <!--
